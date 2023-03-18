@@ -1,2 +1,1 @@
-# gaming-site
-Gaming Website
+# Gaming-Site - Gaming Website
